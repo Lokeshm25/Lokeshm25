@@ -1,15 +1,60 @@
-Hello! 👋 I'm a dedicated and driven computer science student, currently in my 4th semester.
+# 👋 Hi, I'm Lokesh Maheshwari
 
-🤖 AI/ML Enthusiast: Passionate about artificial intelligence and machine learning, I love exploring algorithms, deep learning models, and data-driven solutions to solve real-world problems.
+🎓 **B.Tech CSE | 3rd Year (4th Semester)**  
+🤖 **AI/ML Researcher & Developer**  
+💻 **Full-Stack & Systems Enthusiast**
 
-🌐 Web Development Interest: I also enjoy building intuitive and visually appealing websites, combining creativity with functionality.
+I’m passionate about **building intelligent systems** — from machine learning models and computer-vision pipelines to full-stack applications and real-time inference APIs. I enjoy solving real-world problems using clean engineering, strong fundamentals, and practical ML deployment.
 
-🔧 Tech Stack:
-AI/ML Technologies: Python, C++
-Frontend Technologies: HTML, CSS, JavaScript
-Backend Technologies: Python, C++, JAVA
-Database Technologies: MySQL, MongoDB
+---
 
-🚀 Future AI/ML Engineer & Full-Stack Developer: My goal is to specialize in AI/ML while also mastering full-stack development to create intelligent and impactful digital experiences.
+## 🚀 What I Do
 
-I am committed to building a successful career in AI/ML and Software Development, leveraging my skills to achieve innovative solutions. Let's connect and collaborate!
+### 🤖 Artificial Intelligence / Machine Learning
+- Deep Learning, Computer Vision, NLP  
+- Model training, evaluation, optimization  
+- Real-time inference systems (FastAPI, Gradio, custom APIs)  
+- Face Recognition, Object Detection, NSFW Classification, RAG Chatbots  
+
+### 💻 Software & Web Development
+- Frontend UI/UX with **HTML, CSS, JavaScript**
+- Backend development using **Python, C++, Java**
+- Database systems: **MySQL, MongoDB**
+- API design & deployment workflows (local, Colab, cloud)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- Python, C++, Java, JavaScript, SQL
+
+### **AI/ML & CV**
+- TensorFlow, PyTorch  
+- OpenCV, MTCNN  
+- FaceNet, YOLO, SSD  
+- Scikit-learn, Pandas, NumPy  
+
+### **Frameworks & Tools**
+- FastAPI, Gradio  
+- Google Colab, Jupyter, Git/GitHub  
+- MongoDB, MySQL  
+
+---
+
+## 📌 My Current Focus
+- Building scalable **AI-powered applications**  
+- Improving ML pipeline architecture and model deployment  
+- Advancing in **full-stack development**  
+- Strengthening expertise in **cloud-based ML workflows**
+
+---
+
+## 🎯 Career Goal
+To become a skilled **AI/ML Engineer** who can design, build, and deploy intelligent systems — while maintaining strong foundations in full-stack software development.
+
+---
+
+## 🤝 Let's Connect!
+I’m always open to collaborations, exciting projects, and meaningful conversations.
+
